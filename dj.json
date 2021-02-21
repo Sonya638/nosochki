@@ -15,6 +15,15 @@
             "street": "Svyatoshinskiy rayon",
             "owner": "Sanya",
             "price": 10000000000000000000000000000000000000
-        }
+        },
+
+    {
+"id":3,
+"flors": 90,
+"rooms": 1000000,
+"street": "right side",
+"owner": "Sonya",
+"price": 20
+}
     ]
 }
