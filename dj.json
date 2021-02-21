@@ -1,12 +1,20 @@
 {
     "home": [
-{
-"id": 1,
-"flors": 3,
-"rooms": 12,
-"street": "Borshaha",
-"owner": "Sonya",
-"price": 80000001
-}
+        {
+            "id": 1,
+            "flors": 3,
+            "rooms": 12,
+            "street": "Borshaha",
+            "owner": "Sonya",
+            "price": 80000001
+        },
+                {
+            "id":2,
+            "flors": 25,
+            "rooms": 250,
+            "street": "Svyatoshinskiy rayon",
+            "owner": "Sanya",
+            "price": 10000000000000000000000000000000000000
+        }
     ]
 }
