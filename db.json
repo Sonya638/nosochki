@@ -1,14 +1,15 @@
 {
-    "home": [
+    "houses": [
         {
             "id": 1,
             "flors": 3,
             "rooms": 12,
             "street": "Borshaha",
             "owner": "Sonya",
-            "price": 80000001
+            "price": 80000001,
+            "img": "https://houses.ru/upload/iblock/075/niko-s.jpg"
         },
-                {
+            {
             "id":2,
             "flors": 25,
             "rooms": 250,
@@ -16,14 +17,13 @@
             "owner": "Sanya",
             "price": 10000000000000000000000000000000000000
         },
-
-    {
-"id":3,
-"flors": 90,
-"rooms": 1000000,
-"street": "right side",
-"owner": "Sonya",
-"price": 20
-}
+        {
+            "id":3,
+            "flors": 25,
+            "rooms": 250,
+            "street": "Svyatoshinskiy rayon",
+            "owner": "Sanya",
+            "price": 10000000000000000000000000000000000000
+        }
     ]
 }
