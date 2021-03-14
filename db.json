@@ -42,7 +42,25 @@
             "rooms": 725,
             "street": "Pecherski rayon",
             "owner": "glent",
-            "price": 10000000000000000000000000000000000000,
+            "price": 100000000,
+            "img":"https://www.onduline.ru/blog/sites/default/files/field/image/1et_doma_29.jpg"
+        },
+        {
+            "id":6,
+            "flors": 897,
+            "rooms": 723087,
+            "street": "Palac Sporty",
+            "owner": "A4",
+            "price": 1,
+            "img":"https://www.onduline.ru/blog/sites/default/files/field/image/1et_doma_29.jpg"
+        },
+        {
+            "id":7,
+            "flors": 9098450485088058430958305983059809584,
+            "rooms": 58967,
+            "street": "Palac Sporty",
+            "owner": "Kobyakov",
+            "price": 25,
             "img":"https://www.onduline.ru/blog/sites/default/files/field/image/1et_doma_29.jpg"
         }
     ]
