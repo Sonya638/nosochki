@@ -15,7 +15,8 @@
             "rooms": 250,
             "street": "Svyatoshinskiy rayon",
             "owner": "Sanya",
-            "price": 10000000000000000000000000000000000000
+            "price": 10000000000000000000000000000000000000,
+            "img": "https://vjoy.cc/wp-content/uploads/2019/08/1-19.jpg"
         },
         {
             "id":3,
@@ -23,7 +24,8 @@
             "rooms": 250,
             "street": "Svyatoshinskiy rayon",
             "owner": "Sanya",
-            "price": 10000000000000000000000000000000000000
+            "price": 10000000000000000000000000000000000000,
+            "img":"https://lh3.googleusercontent.com/proxy/z6jZtCoM1uhGN1UwQ9Pz4pO0FNY1QIX-_Bvxbu7OrMih9U1ci6r5qaVafCGbMrkFl2AV8Y-_57hEV4nlA0WwAbiJ-rmrMDTPAQ"
         }
     ]
 }
