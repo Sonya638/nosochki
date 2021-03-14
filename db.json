@@ -26,6 +26,24 @@
             "owner": "Sanya",
             "price": 10000000000000000000000000000000000000,
             "img":"https://lh3.googleusercontent.com/proxy/z6jZtCoM1uhGN1UwQ9Pz4pO0FNY1QIX-_Bvxbu7OrMih9U1ci6r5qaVafCGbMrkFl2AV8Y-_57hEV4nlA0WwAbiJ-rmrMDTPAQ"
+        },
+        {
+            "id":4,
+            "flors": 50,
+            "rooms": 500,
+            "street": "Solomyanski rayon",
+            "owner": "Sanya",
+            "price": 10000000000000000000000000000000000000,
+            "img":"https://i.pinimg.com/originals/45/04/76/450476b7618698f51a4849bb2fd510d8.jpg"
+        },
+        {
+            "id":5,
+            "flors": 75,
+            "rooms": 725,
+            "street": "Pecherski rayon",
+            "owner": "glent",
+            "price": 10000000000000000000000000000000000000,
+            "img":"https://www.onduline.ru/blog/sites/default/files/field/image/1et_doma_29.jpg"
         }
     ]
 }
