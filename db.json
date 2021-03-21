@@ -63,5 +63,20 @@
             "price": 25,
             "img":"https://www.onduline.ru/blog/sites/default/files/field/image/1et_doma_29.jpg"
         }
-    ]
+    ],
+
+"users" : [
+{
+    "id": 1,
+    "name": "Sonya",
+    "pasaword": "poiupoi",
+    "photo": "https://sonyakhegay.com/wp-content/uploads/2020/07/wheat-field-by-Sonya-Khegay-2.jpg"
+},
+{
+    "id": 1,
+    "name": "Krisssss",
+    "pasaword": "dyra",
+    "photo": "https://i.pinimg.com/280x280_RS/ad/70/f2/ad70f20605bde2357a3164e94042b438.jpg"
+}
+]
 }
